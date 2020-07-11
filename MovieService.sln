@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SanFrancisco.Api.Movie", "SanFrancisco.Api.Movie\SanFrancisco.Api.Movie.csproj", "{99C86422-FBDD-4938-97FD-7B084BA344A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SanFrancisco.Api.Movie.Tests", "SanFrancisco.Api.Movie.Tests\SanFrancisco.Api.Movie.Tests.csproj", "{119B7AC0-C9BB-4CC8-A6F3-F791B411D490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C86422-FBDD-4938-97FD-7B084BA344A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C86422-FBDD-4938-97FD-7B084BA344A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C86422-FBDD-4938-97FD-7B084BA344A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C86422-FBDD-4938-97FD-7B084BA344A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119B7AC0-C9BB-4CC8-A6F3-F791B411D490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119B7AC0-C9BB-4CC8-A6F3-F791B411D490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119B7AC0-C9BB-4CC8-A6F3-F791B411D490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119B7AC0-C9BB-4CC8-A6F3-F791B411D490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF3518E-1291-4F39-A502-D8FB9DC28F1F}
+	EndGlobalSection
+EndGlobal
