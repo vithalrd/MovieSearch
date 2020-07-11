@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CodePractice\\MovieService1\\MovieService\\SanFrancisco.Api.Movie\\SanFrancisco.Api.Movie.csproj": {}
+    "F:\\CodePractice\\MovieService_Git\\SanFrancisco.Api.Movie\\SanFrancisco.Api.Movie.csproj": {}
   },
   "projects": {
-    "F:\\CodePractice\\MovieService1\\MovieService\\SanFrancisco.Api.Movie\\SanFrancisco.Api.Movie.csproj": {
+    "F:\\CodePractice\\MovieService_Git\\SanFrancisco.Api.Movie\\SanFrancisco.Api.Movie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CodePractice\\MovieService1\\MovieService\\SanFrancisco.Api.Movie\\SanFrancisco.Api.Movie.csproj",
+        "projectUniqueName": "F:\\CodePractice\\MovieService_Git\\SanFrancisco.Api.Movie\\SanFrancisco.Api.Movie.csproj",
         "projectName": "SanFrancisco.Api.Movie",
-        "projectPath": "F:\\CodePractice\\MovieService1\\MovieService\\SanFrancisco.Api.Movie\\SanFrancisco.Api.Movie.csproj",
+        "projectPath": "F:\\CodePractice\\MovieService_Git\\SanFrancisco.Api.Movie\\SanFrancisco.Api.Movie.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\CodePractice\\MovieService1\\MovieService\\SanFrancisco.Api.Movie\\obj\\",
+        "outputPath": "F:\\CodePractice\\MovieService_Git\\SanFrancisco.Api.Movie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -52,6 +52,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[3.1.4, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
