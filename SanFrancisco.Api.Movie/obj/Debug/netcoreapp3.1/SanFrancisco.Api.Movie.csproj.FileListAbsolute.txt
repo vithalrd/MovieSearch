@@ -86,3 +86,5 @@ F:\CodePractice\MovieService_Git\SanFrancisco.Api.Movie\obj\Debug\netcoreapp3.1\
 F:\CodePractice\MovieService_Git\SanFrancisco.Api.Movie\obj\Debug\netcoreapp3.1\SanFrancisco.Api.Movie.dll
 F:\CodePractice\MovieService_Git\SanFrancisco.Api.Movie\obj\Debug\netcoreapp3.1\SanFrancisco.Api.Movie.pdb
 F:\CodePractice\MovieService_Git\SanFrancisco.Api.Movie\obj\Debug\netcoreapp3.1\SanFrancisco.Api.Movie.genruntimeconfig.cache
+F:\CodePractice\MovieService_Git\SanFrancisco.Api.Movie\obj\Debug\netcoreapp3.1\SanFrancisco.Api.Movie.csproj.CoreCompileInputs.cache
+F:\CodePractice\MovieService_Git\SanFrancisco.Api.Movie\obj\Debug\netcoreapp3.1\SanFrancisco.Api.Movie.MvcApplicationPartsAssemblyInfo.cache
